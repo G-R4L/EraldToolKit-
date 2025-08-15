@@ -6,9 +6,9 @@
 
 ---
 
-## 📌 Cara Mendapatkan
+## 📢 Akses & Info Lengkap
 💬 **EraldToolKit sepenuhnya GRATIS** untuk digunakan.  
-Jika Anda tertarik untuk mencobanya atau ingin mengetahui informasi lebih lanjut, silakan bergabung ke server Discord saya
+Jika Anda tertarik untuk menggunakannya atau ingin mengetahui informasi lebih lanjut, silakan bergabung ke server Discord saya
 - Discord pribadi: **`xg_r4l`**
 - Server Discord: [EraldHQ](https://discord.gg/bEEFxSYxM2) *(info lengkap dan pembaruan tersedia di dalam server)*
 
