@@ -1,7 +1,7 @@
 # 🛠️ EraldToolKit
 
 **EraldToolKit** adalah program multifungsi berbasis Python yang menyediakan berbagai fitur utama dan akan terus mendapatkan pembaruan serta pengembangan lanjutan.  
-💬 **Program ini sepenuhnya GRATIS untuk digunakan**.
+**Program ini sepenuhnya GRATIS untuk digunakan**.
 
 ![Tampilan EraldToolKit](EraldToolKit.png)
 
